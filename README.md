@@ -67,6 +67,8 @@ The newsletter will be printed in the console.
 ---
 
 ## Demo Output
+```
+Gathering latest updates on the Big Six clubs...
 
 **Today's (2025-03-16 13:35:35) Premier League Update: The Big Six Clubs**
 
@@ -126,3 +128,4 @@ Tottenham Hotspur suffered a disappointing week, losing to both Fulham and Brigh
 Stay tuned for more updates.
 
 - **Premier League Pulse**
+```
